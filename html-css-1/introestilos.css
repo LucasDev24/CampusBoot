@@ -1,0 +1,29 @@
+.colores {
+    color: rgb(16, 223, 9);
+}
+
+.fondo {
+    background-color: cadetblue;
+    
+    background-position: left bottom;
+}
+
+.ancho {
+    background-color: aqua;
+    width: 100px;
+}
+
+.alto {
+    background-color: chartreuse;
+    height: 200px;
+    
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    /*border-top: none;*/
+    padding: 10px;
+    margin: 10px;
+}
